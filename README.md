@@ -1,10 +1,10 @@
 # Code-Tries
 # Python Codes for Beginners
-> I have some good and some basic code modules:
+> I have some good and some basic code modules
 > Have a try
 > If you have anything to ask
 + Dont hesitate to ask me
-
+& ey
 
 
 
