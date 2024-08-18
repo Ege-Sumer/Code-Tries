@@ -7,6 +7,7 @@
 
 + [Python SQLite3 Database Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/database_sql)
 + [Python PYQT5 Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/widget_pyqt)
++ [Ip Finder in Python -idk why did i write this-](https://github.com/SuzuyaJzo/Code-Tries/blob/main/ip_find)
 
 # Contact me :
   > [Instagram](https://www.instagram.com/ege.g.smr?igsh=MTVsd2ZoaWV5MzNqYg==)
