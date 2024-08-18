@@ -1,5 +1,5 @@
 # Code-Tries
-> In Progress...
+
 # Python Codes for Beginners
 > I have some good and some basic code modules
 + Have a try
@@ -12,3 +12,6 @@
   > [Instagram](https://www.instagram.com/ege.g.smr?igsh=MTVsd2ZoaWV5MzNqYg==)
 
   > [Lınked In](https://tr.linkedin.com/in/ahmet-ege-s%C3%BCmer-a570942b3)
+
+# For more :
+> In Progress
