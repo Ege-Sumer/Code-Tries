@@ -7,9 +7,12 @@
 
 + [Python SQLite3 Database Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/database_sql)
 + [Python PYQT5 Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/widget_pyqt)
++ [Python PYQT5 Sample v2](https://github.com/SuzuyaJzo/Code-Tries/blob/main/pyqt52)
 + [Ip Finder in Python ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/ip_find)-idk why did i write this-
 + [Remote Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/remote)
 + [Factorial Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/fac)
++ [Star](https://github.com/SuzuyaJzo/Code-Tries/blob/main/star)
+  
 
 # Contact me :
   > [Instagram](https://www.instagram.com/ege.g.smr?igsh=MTVsd2ZoaWV5MzNqYg==)
