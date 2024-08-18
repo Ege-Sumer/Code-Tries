@@ -9,6 +9,7 @@
 + [Python PYQT5 Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/widget_pyqt)
 + [Ip Finder in Python ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/ip_find)-idk why did i write this-
 + [Remote Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/remote)
++ [Factorial Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/fac)
 
 # Contact me :
   > [Instagram](https://www.instagram.com/ege.g.smr?igsh=MTVsd2ZoaWV5MzNqYg==)
