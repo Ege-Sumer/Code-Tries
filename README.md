@@ -1,6 +1,7 @@
 # Code-Tries
-# Python Codes for Beginners to try and learn 
-> I have some good and some basic code modules
+# Python Codes for Beginners
+> I have some good and some basic code modules:
+  > Have a try
 > If you have anything to ask dont hesitate to  
 
 
