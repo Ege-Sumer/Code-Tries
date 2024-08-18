@@ -6,6 +6,7 @@
 >>> If you have anything to ask dont hesitate to ask me.
 
 + [Python SQLite3 Database Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/database_sql)
++ [Python PYQT5 Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/widget_pyqt)
 
 # Contact me :
   > [Instagram](https://www.instagram.com/ege.g.smr?igsh=MTVsd2ZoaWV5MzNqYg==)
