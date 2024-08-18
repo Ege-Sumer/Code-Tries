@@ -3,6 +3,7 @@
 # Python Codes for Beginners
 > I have some good and some basic code modules
 + Have a try
+> Please report broken links or inaccurate information in any of the modules
 > If you have anything to ask
 + Dont hesitate to ask me
 
@@ -14,4 +15,5 @@
   > [Lınked In](https://tr.linkedin.com/in/ahmet-ege-s%C3%BCmer-a570942b3)
 
 # For more :
+
 > In Progress
