@@ -5,15 +5,15 @@
 >> Please report broken links or inaccurate information in any of the modules.
 >>> If you have anything to ask dont hesitate to ask me.
 
-+ [Python SQLite3 Database Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/database_sql)
-+ [Python PYQT5 Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/widget_pyqt)
-+ [Python PYQT5 Sample v2](https://github.com/SuzuyaJzo/Code-Tries/blob/main/pyqt52)
-+ [Ip Finder in Python ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/ip_find)-idk why did i write this-
-+ [Remote Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/remote)
-+ [Factorial Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/fac)
-+ [Star](https://github.com/SuzuyaJzo/Code-Tries/blob/main/star)
-+ [Login ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/login)*its basic as you know*
-+ [Predict Game in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/predict.py)
++ [Python SQLite3 Database Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/database_sql.py)
++ [Python PYQT5 Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/widget_pyqt)
++ [Python PYQT5 Sample v2](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/pyqt52)
++ [Ip Finder in Python ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/ip_find)-idk why did i write this-
++ [Remote Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/remote)
++ [Factorial Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/fac)
++ [Star](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/star)
++ [Login ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/login)*its basic as you know*
++ [Predict Game in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/predict.py)
   
 
 # Contact me :
