@@ -13,6 +13,7 @@
 + [Factorial Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/fac)
 + [Star](https://github.com/SuzuyaJzo/Code-Tries/blob/main/star)
 + [Login ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/login)*its basic as you know*
++ [Predict Game in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/predict.py)
   
 
 # Contact me :
