@@ -12,7 +12,7 @@
 + [Remote Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/remote.py)
 + [Factorial Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/fac.py)
 + [Star](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/star.py)
-+ [Login ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/login.py)*its basic as you know*
++ [Login ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/login.py)*its as basic as you know*
 + [Predict Game in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/predict.py)
   
 
