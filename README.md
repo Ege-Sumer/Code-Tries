@@ -14,6 +14,7 @@
 + [Star](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/star.py)
 + [Login ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/login.py)*its as basic as you know*
 + [Predict Game in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/predict.py)
++ [Password Generator in Python](https://github.com/Ege-Sumer/Code-Tries/blob/main/Python/password_generator)
   
 
 # Contact me :
