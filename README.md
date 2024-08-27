@@ -15,6 +15,11 @@
 + [Login ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/login.py)*its as basic as you know*
 + [Predict Game in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/predict.py)
 + [Password Generator in Python](https://github.com/Ege-Sumer/Code-Tries/blob/main/Python/password_generator)
+
+
+# HTML and CSS for Beginners
+> There is some website examples
++[HTML registration Website](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/website-try.html)
   
 
 # Contact me :
