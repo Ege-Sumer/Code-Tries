@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate Project</title>
+    <link rel="stylesheet" href="cert.css"/>
 
+
+</head>
+<body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    
+    <form action="https://www.duckduckgo.com" id="survey-form">
+        <fieldset>
+            <div class="image-blur"></div>
+            <div id="survey-form">
+                <fieldset>
+                <label id="name-label" for="name-label">Input your username: 
+                    <input id="name" type="text" placeholder="Jack" required>
+                </label>
+                <label id="email-label" for="email-label">Input your email: 
+                    <input id="email" type="email" placeholder="Sparrow" required>
+                </label>
+                <label id="number-label" for="number-label">Input your age: 
+                    <input id="number" type="number" min="1" max="120" placeholder="23">
+                </label>
+                </fieldset>
+                <fieldset>
+                <label for="dropdown">Choose your gender: 
+                    <select id="dropdown">
+                        <option value="dropdown">Male</option>
+                        <option value="dropdown">Female</option>
+                    </select>
+                </fieldset><br>
+                
+                
+                <legend>Choose your account type </legend><br>
+                <label for="personal-radio"><input type="radio" value="radio" name="-account-radio" id="personal-radio" class="inline" checked>Personal</label> 
+                <label for="business-radio"><input type="radio" value="radio" name="-account-radio" id="business-radio" class="inline">Business</label>
+            
+                </fieldset>
+                <fieldset>
+                    <label for="bio">Provide a Bio:  <br><br>
+                        <textarea name="bio" id="bio" rows="6" cols="30" placeholder="I like coding on the beach..."></textarea>
+                    </label>
+                </fieldset>
+                <fieldset><label>Choose all what you are good at </label>
+                    <label for="checkbox-label"><input type="checkbox" name="checkbox" id="checkbox" value="design" class="inline" > Design</label>
+                    <label for="checkbox-label2" ><input type="checkbox" name="checkbox" id="checkbox-2" value="coding" class="inline" > Coding</label>
+                    <label for="checkbox-label2" ><input type="checkbox" name="checkbox" id="checkbox-3" value="writing" class="inline" > Writing</label>
+                </fieldset>
+            
+                <fieldset id="terms-and-conditions"> 
+                <label for="terms-and-conditions">
+                    <input class="inline" id="terms-and-conditions" type="checkbox" value="terms" required name="terms-and-conditions" /> I accept the <a href="">terms and conditions</a>
+                </label>
+                <input type="submit" id="submit" value="Submit" class="submit-button"></fieldset>
+            </div>
+    </form>
+</body>
+</html>
