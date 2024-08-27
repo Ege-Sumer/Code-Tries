@@ -20,7 +20,7 @@
 # HTML and CSS for Beginners
 > There is some website examples
 
-+[HTML registration Website](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/website-try.html)
++ [HTML registration Website](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/website-try.html)
   
 
 # Contact me :
