@@ -21,6 +21,7 @@
 > There is some website examples
 
 + [HTML registration Website](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/website-try.html)
+  +[It's CSS codes](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert.css)
   
 
 # Contact me :
