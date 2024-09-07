@@ -21,9 +21,11 @@
 > There is some website examples
 
 + [HTML registration Website](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/website-try.html)
->>[Registraion Website's CSS codes](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert.css)
+>>[Registraion Website's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert.css)
 + [HTML tribute page example](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/einstein-web.html)
->>[Tribute Page's CSS codes](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert-2.css)
+>>[Tribute Page's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert-2.css)
++[Python Documentation Page](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/documentation.html)
+>>[Documentation Page's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert-3.css)
   
 
 # Contact me :
