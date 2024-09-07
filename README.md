@@ -24,7 +24,7 @@
 >>[Registraion Website's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert.css)
 + [HTML tribute page example](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/einstein-web.html)
 >>[Tribute Page's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert-2.css)
-+[Python Documentation Page](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/documentation.html)
++ [Python Documentation Page](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/documentation.html)
 >>[Documentation Page's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert-3.css)
   
 
