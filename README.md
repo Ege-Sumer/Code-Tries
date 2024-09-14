@@ -32,7 +32,7 @@
 # Contact me :
   > [Instagram](https://www.instagram.com/ege.g.smr?igsh=MTVsd2ZoaWV5MzNqYg==)
 
-  > [Lınked In]([https://tr.linkedin.com/in/ahmet-ege-s%C3%BCmer-a570942b3](https://www.linkedin.com/in/ahmet-ege-s%C3%BCmer-9156b7222/)
+  > [Lınked In](https://tr.linkedin.com/in/ahmet-ege-s%C3%BCmer-a570942b3](https://www.linkedin.com/in/ahmet-ege-s%C3%BCmer-9156b7222)
 
 # For more :
 
