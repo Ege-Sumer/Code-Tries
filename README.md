@@ -9,11 +9,11 @@
 + [Python SQLite3 Database Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/database_sql.py)
 + [Python PYQT5 Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/widget_pyqt.py)
 + [Python PYQT5 Sample v2](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/pyqt52.py)
-+ [Ip Finder in Python ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/ip_find.py)-idk why did i write this-
++ [Ip Finder in Python ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/ip_find.py)
 + [Remote Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/remote.py)
 + [Factorial Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/fac.py)
 + [Star](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/star.py)
-+ [Login ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/login.py)*its as basic as you know*
++ [Login ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/login.py)
 + [Predict Game in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/predict.py)
 + [Password Generator in Python](https://github.com/Ege-Sumer/Code-Tries/blob/main/Python/password_generator)
 
