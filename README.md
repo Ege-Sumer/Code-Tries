@@ -5,6 +5,7 @@
 >> Please report broken links or inaccurate information in any of the modules.
 >>> If you have anything to ask dont hesitate to ask me.
 
++ [Python Basic Slot Machine Sample](https://github.com/Ege-Sumer/Code-Tries/blob/main/Python/slot_machine.py)
 + [Python SQLite3 Database Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/database_sql.py)
 + [Python PYQT5 Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/widget_pyqt.py)
 + [Python PYQT5 Sample v2](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/pyqt52.py)
