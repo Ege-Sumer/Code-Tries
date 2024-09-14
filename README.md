@@ -12,7 +12,7 @@
 + [Ip Finder in Python ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/ip_find.py)
 + [Remote Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/remote.py)
 + [Factorial Sample in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/fac.py)
-+ [Star](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/star.py)
++ [Making a Star with Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/star.py)
 + [Login Check with Python ](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/login.py)
 + [Predict Game in Python](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/predict.py)
 + [Password Generator in Python](https://github.com/Ege-Sumer/Code-Tries/blob/main/Python/password_generator)
