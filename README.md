@@ -28,7 +28,7 @@
 
   
 # JavaScript Codes
->[Slot Machine Sample](https://github.com/Ege-Sumer/Code-Tries/blob/main/JavaScript/slot.js)
++ [Slot Machine Sample](https://github.com/Ege-Sumer/Code-Tries/blob/main/JavaScript/slot.js)
 
 
 # Contact me :
