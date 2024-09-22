@@ -19,20 +19,24 @@
 
 
 # HTML and CSS
-> There is some website examples
-
 + [HTML registration Website](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/website-try.html)
 >>[Registraion Website's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert.css)
 + [HTML tribute page example](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/einstein-web.html)
 >>[Tribute Page's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert-2.css)
 + [Python Documentation Page](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/documentation.html)
 >>[Documentation Page's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert-3.css)
+
   
+# JavaScript Codes
+>[Slot Machine Sample](https://github.com/Ege-Sumer/Code-Tries/blob/main/JavaScript/slot.js)
+
 
 # Contact me :
   > [Instagram](https://www.instagram.com/ege.g.smr?igsh=MTVsd2ZoaWV5MzNqYg==)
 
   > [Lınked In](https://www.linkedin.com/in/ahmet-ege-s%C3%BCmer-9156b7222/)
+  
+  > [Website](https://ege-sumer.github.io/Website/) 
 
 # For more :
 
