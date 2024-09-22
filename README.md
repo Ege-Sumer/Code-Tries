@@ -1,6 +1,6 @@
 # Code-Tries
 
-# Python Codes for Beginners
+# Python Codes
 > I have some good and some basic code modules. 
 >> Please report broken links or inaccurate information in any of the modules.
 >>> If you have anything to ask dont hesitate to ask me.
@@ -18,7 +18,7 @@
 + [Password Generator in Python](https://github.com/Ege-Sumer/Code-Tries/blob/main/Python/password_generator)
 
 
-# HTML and CSS for Beginners
+# HTML and CSS
 > There is some website examples
 
 + [HTML registration Website](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/website-try.html)
