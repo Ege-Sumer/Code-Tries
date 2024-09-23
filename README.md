@@ -36,7 +36,10 @@
 
   > [Lınked In](https://www.linkedin.com/in/ahmet-ege-s%C3%BCmer-9156b7222/)
   
-  > [Website](https://ege-sumer.github.io/Website/) 
+  > [Website](https://ege-sumer.github.io/Website/)
+  
+  > [Hoverboard Effect with JavaScript](https://github.com/Ege-Sumer/Code-Tries/tree/main/JavaScript/hoverboard-effect)
+
 
 # For more :
 
