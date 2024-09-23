@@ -1,9 +1,11 @@
 # Code-Tries
 
-# Python Codes
 > I have some good and some basic code modules. 
 >> Please report broken links or inaccurate information in any of the modules.
 >>> If you have anything to ask dont hesitate to ask me.
+
+
+# Python Codes
 
 + [Python Basic Slot Machine Sample](https://github.com/Ege-Sumer/Code-Tries/blob/main/Python/slot_machine.py)
 + [Python SQLite3 Database Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/database_sql.py)
