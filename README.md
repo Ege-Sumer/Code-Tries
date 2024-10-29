@@ -1,8 +1,9 @@
 ***
 <div align=center>
-  # Code-Tries 
+  Code-Tries 
 </div>
 ***
+
 
 > I have some good and some basic code modules. 
 >> Please report broken links or inaccurate information in any of the modules.
