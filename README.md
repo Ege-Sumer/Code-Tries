@@ -5,9 +5,9 @@
 ***
 
 
-> I have some good and some basic code modules. 
->> Please report broken links or inaccurate information in any of the modules.
->>> If you have anything to ask dont hesitate to ask me.
+- I have some good and some basic code modules. 
+- Please report broken links or inaccurate information in any of the modules.
+- If you have anything to ask dont hesitate to ask me.
 
 
 # Python Codes
