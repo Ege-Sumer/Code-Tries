@@ -1,5 +1,5 @@
 ***
-<div align=center font: bold>
+<div align=center>
   Code-Tries 
 </div>
 
@@ -11,7 +11,12 @@
 >>> If you have anything to ask dont hesitate to ask me.
 
 
-# Python Codes
+***
+<div align=center>
+  Python 
+</div>
+
+***
 
 + [Python Basic Slot Machine Sample](https://github.com/Ege-Sumer/Code-Tries/blob/main/Python/slot_machine.py)
 + [Python SQLite3 Database Sample](https://github.com/SuzuyaJzo/Code-Tries/blob/main/Python/database_sql.py)
@@ -26,7 +31,12 @@
 + [Password Generator in Python](https://github.com/Ege-Sumer/Code-Tries/blob/main/Python/password_generator)
 
 
-# HTML and CSS
+***
+<div align=center>
+  HTML & CSS 
+</div>
+
+***
 + [HTML registration Website](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/website-try.html)
 >>[Registraion Website's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert.css)
 + [HTML tribute page example](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/einstein-web.html)
@@ -34,8 +44,12 @@
 + [Python Documentation Page](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/documentation.html)
 >>[Documentation Page's CSS Code](https://github.com/Ege-Sumer/Code-Tries/blob/main/HTML/cert-3.css)
 
-  
-# JavaScript Codes
+***
+<div align=center>
+  JavaScript 
+</div>
+
+***
 + [Slot Machine Sample](https://github.com/Ege-Sumer/Code-Tries/blob/main/JavaScript/slot.js)
 + [Hoverboard Effect with JavaScript](https://github.com/Ege-Sumer/Code-Tries/tree/main/JavaScript/hoverboard-effect)
 
