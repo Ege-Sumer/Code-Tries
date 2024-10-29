@@ -1,5 +1,5 @@
 ***
-<div align=center>
+<div align=center font-size: 4 em>
   Code-Tries 
 </div>
 
