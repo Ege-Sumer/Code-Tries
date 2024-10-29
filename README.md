@@ -55,7 +55,7 @@
 + [Slot Machine Sample](https://github.com/Ege-Sumer/Code-Tries/blob/main/JavaScript/slot.js)
 + [Hoverboard Effect with JavaScript](https://github.com/Ege-Sumer/Code-Tries/tree/main/JavaScript/hoverboard-effect)
 
-
+***
 
 
 # Contact with me :
