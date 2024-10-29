@@ -1,6 +1,6 @@
 ***
-<div align=center ">
-  # Code-Tries 
+<div align=center font: bold>
+  Code-Tries 
 </div>
 
 ***
